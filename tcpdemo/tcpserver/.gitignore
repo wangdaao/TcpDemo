@@ -1,0 +1,5 @@
+.qmake
+debug
+release
+Makefile*
+tcpserver.pro.*
